@@ -1,37 +1,37 @@
-# name=["riddhi", "fine","sam","radha",]
-# name.append("siddhi")
-# print(name)
+ name=["riddhi", "fine","sam","radha",]
+name.append("siddhi")
+print(name)
 
-# number=[45,43,65,2,5]
-# number.insert(32,77)
-# print(number)
+number=[45,43,65,2,5]
+number.insert(32,77)
+print(number)
 
-# match=[3.3,"ram",54,"emn"]
-# stud=match.copy()
-# print(match)
-# print(stud)
+match=[3.3,"ram",54,"emn"]
+stud=match.copy()
+print(match)
+print(stud)
 
-# a=[1,2,3] 
-# b = a.copy()
-# print(a)
-# print(b)
+a=[1,2,3] 
+b = a.copy()
+print(a)
+print(b)
 
-# a = [10, 20]
-# a.extend([56,78])
-# print(a)
+a = [10, 20]
+a.extend([56,78])
+print(a)
 
-# a = [1, 2, 3]
-# b=[9,8,7,5]
-# a.extend(b)
-# print(a)
+a = [1, 2, 3]
+b=[9,8,7,5]
+a.extend(b)
+print(a)
 
-# k=["kishor","ram","radha"]
-# k.extend(["rajesh","ram"])
-# print(k)    
+k=["kishor","ram","radha"]
+k.extend(["rajesh","ram"])
+print(k)    
 
-# name=["jasmin","falower"]
-# name.append("ram")
-# print(name)
+name=["jasmin","falower"]
+name.append("ram")
+print(name)
 
 fruits = ["apple", "mango", "apple", "banana", "apple"]
 print(fruits.count("apple"))
